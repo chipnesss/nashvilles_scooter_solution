@@ -8,6 +8,6 @@ This project for me was less of a technical beast for me, and more of a project 
 
 The over arching goal of this project, was to help clean up the streets of Nashville when it comes to scooter population & density, while also allowing for companies to continue to be economically successful in our city. 
 
-The process of finding this answer resulted in a total of 54 slides (Feel free to view the PDF if trying to view on GitHub) discussing everything from how many companies we analyzed,  to how we reached our final conclusion.
+The process of finding this answer resulted in a total of 54 slides (Feel free to view the PDF if trying to view on GitHub, and dont forget to hit 'View More Pages') discussing everything from how many companies we analyzed,  to how we reached our final conclusion.
 
 
