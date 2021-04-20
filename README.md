@@ -10,7 +10,7 @@ The over arching goal of this project, was to help clean up the streets of Nashv
 
 The process of finding this answer resulted in a total of 54 slides (Feel free to view the PDF if trying to view on GitHub, and dont forget to hit 'View More Pages') discussing everything from how many companies we analyzed,  to how we reached our final conclusion.
 
-## A few screen grabs freom the 54 page presentation
+## Screen grabs from the 54 page presentation
 
 ![Areas of High/Low Usage](assets/image3.png)
 ![Number of Scooters Per Day](assets/image2.png)
